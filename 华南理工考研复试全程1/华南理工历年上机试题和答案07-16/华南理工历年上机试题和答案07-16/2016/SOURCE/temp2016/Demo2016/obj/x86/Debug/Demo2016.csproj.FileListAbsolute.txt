@@ -1,0 +1,12 @@
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\bin\Debug\Demo2016.exe
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\bin\Debug\Demo2016.pdb
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.FormMain.resources
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.Properties.Resources.resources
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.csproj.GenerateResource.Cache
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.exe
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.pdb
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.FormStudent.resources
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.FormSearch.resources
+D:\研究生复试\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.FormStatistics.resources
+D:\研究生复试\华南理工历年上机试题和答案07-16\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.exe
+D:\研究生复试\华南理工历年上机试题和答案07-16\2016\SOURCE\temp2016\Demo2016\obj\x86\Debug\Demo2016.pdb

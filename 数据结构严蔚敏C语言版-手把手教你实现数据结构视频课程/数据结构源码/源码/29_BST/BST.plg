@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BST - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ThinkPad\LOCALS~1\Temp\RSPDDD.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/BST.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\CC\BST\BST.CPP"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ThinkPad\LOCALS~1\Temp\RSPDDD.tmp" 
+Creating temporary file "C:\DOCUME~1\ThinkPad\LOCALS~1\Temp\RSPDDE.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/BST.pdb" /debug /machine:I386 /out:"Debug/BST.exe" /pdbtype:sept 
+.\Debug\BST.OBJ
+.\Debug\Main.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ThinkPad\LOCALS~1\Temp\RSPDDE.tmp"
+<h3>Output Window</h3>
+Compiling...
+BST.CPP
+e:\cc\bst\bst.cpp(133) : warning C4715: 'RemoveBSTree' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+BST.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

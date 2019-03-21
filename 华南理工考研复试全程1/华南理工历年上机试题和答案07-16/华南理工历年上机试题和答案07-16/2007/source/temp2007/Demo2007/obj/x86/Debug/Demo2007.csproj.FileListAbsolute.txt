@@ -1,0 +1,13 @@
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\bin\Debug\Demo2007.exe
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\bin\Debug\Demo2007.pdb
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.FormMain.resources
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.Properties.Resources.resources
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.csproj.GenerateResource.Cache
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.exe
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.pdb
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.FormEmp.resources
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.FormDisplay.resources
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.FormDept.resources
+D:\研究生复试\2007彭晶\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.FormSearch.resources
+D:\研究生复试\华南理工历年上机试题和答案07-16\2007\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.exe
+D:\研究生复试\华南理工历年上机试题和答案07-16\2007\source\temp2007\Demo2007\obj\x86\Debug\Demo2007.pdb

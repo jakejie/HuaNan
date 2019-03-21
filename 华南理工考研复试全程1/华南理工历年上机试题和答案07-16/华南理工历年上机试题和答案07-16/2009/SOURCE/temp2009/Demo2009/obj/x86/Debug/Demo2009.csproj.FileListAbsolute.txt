@@ -1,0 +1,10 @@
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\bin\Debug\Demo2009.exe
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\bin\Debug\Demo2009.pdb
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.FormMain.resources
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.FormManage.resources
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.FormSearch.resources
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.FormStatistics.resources
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.Properties.Resources.resources
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.csproj.GenerateResource.Cache
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.exe
+D:\研究生复试\2009\SOURCE\temp2009\Demo2009\obj\x86\Debug\Demo2009.pdb
