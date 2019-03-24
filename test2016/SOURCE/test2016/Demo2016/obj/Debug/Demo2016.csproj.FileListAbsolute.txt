@@ -1,0 +1,9 @@
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\bin\Debug\Demo2016.exe.config
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\bin\Debug\Demo2016.exe
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\bin\Debug\Demo2016.pdb
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\obj\Debug\Demo2016.csprojResolveAssemblyReference.cache
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\obj\Debug\Demo2016.FormMain.resources
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\obj\Debug\Demo2016.Properties.Resources.resources
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\obj\Debug\Demo2016.csproj.GenerateResource.Cache
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\obj\Debug\Demo2016.exe
+E:\研究生复试第二次练习\test2016\SOURCE\test2016\Demo2016\obj\Debug\Demo2016.pdb
