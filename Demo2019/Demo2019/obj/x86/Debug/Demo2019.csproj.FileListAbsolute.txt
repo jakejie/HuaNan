@@ -1,0 +1,4 @@
+d:\Code\Demo2019\Demo2019\bin\Debug\Demo2019.exe
+d:\Code\Demo2019\Demo2019\bin\Debug\Demo2019.pdb
+d:\Code\Demo2019\Demo2019\obj\x86\Debug\Demo2019.exe
+d:\Code\Demo2019\Demo2019\obj\x86\Debug\Demo2019.pdb
